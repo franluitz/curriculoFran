@@ -1,0 +1,83 @@
+/* .cardMenu{
+    background: #0048ac repeat left top;
+    height: 100%;
+    position: fixed;
+    width: 300px;
+}
+.conteudoMenu{
+   display: flex;
+   position: absolute;
+   margin-top: 300px;
+   flex-direction: column; 
+   align-items: flex-start;
+  
+}
+.Home{
+    font-size: medium;
+    margin-bottom:28px ;
+}
+.Experiencia{
+    font-size: medium;
+    margin-bottom:28px ;
+}
+.Habilidade{
+    font-size:medium; 
+}
+.img{
+    margin: 20px;
+    max-width: 150px;
+    border-radius: 50%;
+    
+}
+.cardHome{
+    display: flex;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    margin-left: 300px;
+    background: #ffffff repeat left top;
+} */
+
+.card{
+    width: 100%;
+    display: flex;
+    font-size: 1rem;
+    margin-bottom: 15px;
+    margin-top: 30px; 
+    background: #FFFFFF;
+}
+.icon{
+    position: absolute;   
+    color:  #002b5c;
+    margin-left: 5px;
+}
+.info{
+    margin-left: 30px;
+    color:  #002b5c;
+}
+.content{
+    margin: 30px;
+    
+}
+.textoInfo{
+    font-size: 20px;
+    color: #002b5c;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.textoInfo1{
+    font-size: 16px;
+    color: #002b5c;
+    line-height: 25px;
+    
+}
+.textoInfo2{
+    font-size: 20px;
+    color: #002b5c;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+

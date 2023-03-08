@@ -1,0 +1,31 @@
+.content{
+    margin: 30px; 
+    max-width: 80%;
+   
+}
+.title{
+    display: flex;
+    margin: 30px;
+
+}
+.title{
+    display: flex;
+    margin: 30px;
+}
+.textoInfo1{
+    font-size: 16px;
+    color: #002b5c;
+    line-height: 25px; 
+}
+.link{
+    background:#002b5c; 
+    max-height: 35px;
+    border-radius: 5px;
+   
+}
+.link1{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none
+}

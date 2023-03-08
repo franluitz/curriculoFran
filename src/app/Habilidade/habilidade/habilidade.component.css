@@ -1,0 +1,16 @@
+.example-card{
+    background: white;
+    width: 300px;
+    margin: 25px;
+   
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+} 
+.title{
+    display: flex;
+    margin: 30px;
+}

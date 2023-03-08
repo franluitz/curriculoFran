@@ -1,0 +1,42 @@
+.content{
+    margin: 30px; 
+    max-width: 80%;
+   
+}
+
+.textoInfo{
+    font-size: 20px;
+    color: #002b5c;
+    line-height: 25px;
+    margin-top: 20px;
+    
+}
+.textoInfo1{
+    font-size: 16px;
+    color: #002b5c;
+    line-height: 25px;
+    
+}
+.textoInfo2{
+    font-size: 20px;
+    color: #002b5c;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+.link{
+    background:#002b5c; 
+    max-height: 35px;
+    border-radius: 5px;
+}
+.link1{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 5px;
+    text-decoration: none
+}
+.title{
+    display: flex;
+    margin: 30px;
+}
